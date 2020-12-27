@@ -1,0 +1,26 @@
+{
+    "eslint.options": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "es6"
+    ],
+    "eslint.workingDirectories": [
+    
+    ],
+    "jshint.config": "",
+    "jshint.options": {
+        "esversion": 6
+    }
+}
